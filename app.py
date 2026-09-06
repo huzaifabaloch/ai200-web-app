@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Tuna App</title>
+        <title>Web App</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
