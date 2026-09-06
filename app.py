@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Test Page</title>
+        <title>Web App</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
