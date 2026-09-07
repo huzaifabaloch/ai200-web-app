@@ -47,7 +47,7 @@ def home():
     <body>
         <div class="card">
             <h1>🚀 Hello Tuna!</h1>
-            <p>This is a test FastAPI web page.</p>
+            <p>This is a test for Azure Container Apps</p>
             <p class="status">● Server is running</p>
         </div>
     </body>
