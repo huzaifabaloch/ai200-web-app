@@ -46,8 +46,8 @@ def home():
 
     <body>
         <div class="card">
-            <h1>🚀 Hello Tuna!</h1>
-            <p>This is a test for Azure Container Apps</p>
+            <h1>🚀 Hello Chilly!</h1>
+            <p>This is a test for Azure Kubernetes Service</p>
             <p class="status">● Server is running</p>
         </div>
     </body>
